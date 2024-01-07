@@ -23,7 +23,7 @@ The terminal should now look like:
 
 1. Open your Terminal, and type and enter: "javac -version"
 
-If "javac is not recognized," or if your JDK version is not 18.0 or above, please proceed to Step 2.
+If "javac is not recognized," or if your JDK version is not 18.0 or above, please proceed to Steps 2-4.
 
 2. Download the most recent Java JDK version using this link: [https://www.oracle.com/java/technologies/downloads/] Choose the version that's compatible on your device (Windows, MacOS) and select the x64 installer, or x64 DMG Installer. Click and open the downloaded file to install the most recent Java JDK version. 
 
