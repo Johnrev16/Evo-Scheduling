@@ -21,7 +21,7 @@ The terminal should now look like:
 
 # PRE-PRE-STEPS
 
-IF YOU DO NOT HAVE JAVA INSTALLED, use this link to download the most recent JDK version on your compatible device: [https://www.oracle.com/java/technologies/downloads/]
+IF YOU DO NOT HAVE JAVA INSTALLED, use this link to download the most recent JDK version on your compatible device Windows/MacOs x64 installer or x64 DMG Installer: [https://www.oracle.com/java/technologies/downloads/]
 
 
 1. Open your Terminal, and type in "javac -version" and press Enter. If your version is not 18.0 or above, then please proceed to Step 2.
