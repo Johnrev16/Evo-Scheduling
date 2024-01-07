@@ -6,8 +6,8 @@ For future Evo Board use:
 # THE TERMINAL
 
 1. How to Open up the Terminal
-    On MacOS (Press Command + Space and search "Terminal")
-    On Windows (Press Windows button and search "Powershell")
+2. On MacOS (Press Command + Space and search "Terminal")
+3. On Windows (Press Windows button and search "Powershell")
 
 The terminal should now look like: 
 
