@@ -41,7 +41,7 @@ If "javac is not recognized," or if your JDK version is not 18.0 or above, pleas
 
 # STEPS
 
-1. Download all the .java files and store them inside your newly created folder.
+1. Download all the .java files in this GitHub repository named "Choreographer," "Arc," and "Main" and store them inside your folder.
 2. Open up your terminal.
 3. In the MacOS terminal, type "cd Desktop/name_of_folder" -- so if your folder is named "evo-scheduling," you should type "cd Desktop/evo-scheduling"
 4. In the Windows terminal, type "cd OneDrive/Desktop/name_of_folder" -- so if your folder is named "evo-scheduling," you should type "cd OneDrive/Desktop/evo-scheduling"
