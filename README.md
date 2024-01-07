@@ -3,11 +3,11 @@ A developed AI algorithm to schedule practices upto 18 choreographers (not fool-
 
 For future Evo Board use:
 
-# OPENING UP THE TERMINAL
+# THE TERMINAL
 
-1. Open up the Terminal
-  2. On MacOS (Press Command + Space and search "Terminal")
-  3. On Windows (Press Windows button and search "Powershell")
+1. How to Open up the Terminal
+    On MacOS (Press Command + Space and search "Terminal")
+    On Windows (Press Windows button and search "Powershell")
 
 The terminal should now look like: 
 
@@ -22,7 +22,7 @@ The terminal should now look like:
 
 # PRE-PRE-STEPS
 
-IF YOU DO NOT HAVE JAVA INSTALLED, use this link: [https://www.oracle.com/java/technologies/downloads/]
+IF YOU DO NOT HAVE JAVA INSTALLED, use this link to download the most recent JDK version on your compatible device: [https://www.oracle.com/java/technologies/downloads/]
 
 
 1. Open your Terminal, and type in "javac -version" and press Enter. If your version is not 18.0 or above, then please proceed to Step 2.
