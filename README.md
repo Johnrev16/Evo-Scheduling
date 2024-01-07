@@ -43,17 +43,17 @@ If "javac is not recognized," or if your JDK version is not 18.0 or above, pleas
 
 1. Download all the .java files in this GitHub repository named "Choreographer," "Arc," and "Main" and store them inside your folder.
 2. Open up your terminal.
-3. In the MacOS terminal, type "cd Desktop/name_of_folder" -- so if your folder is named "evo-scheduling," you should type "cd Desktop/evo-scheduling"
-4. In the Windows terminal, type "cd OneDrive/Desktop/name_of_folder" -- so if your folder is named "evo-scheduling," you should type "cd OneDrive/Desktop/evo-scheduling"
+3. In the MacOS terminal, type and enter "cd Desktop/name_of_folder" -- so if your folder is named "evo-scheduling," you should type "cd Desktop/evo-scheduling"
+4. In the Windows terminal, type and enter "cd OneDrive/Desktop/name_of_folder" -- so if your folder is named "evo-scheduling," you should type "cd OneDrive/Desktop/evo-scheduling"
 5. Now that you're in the correct directory, you can now run the program!
 
 # RUNNING THE PROGRAM
 
-1. On MacOS and Windows, type "javac Main.java" to compile the .java into a .class
-2. Then, type "java Main" This should prompt you to choose the .csv file. Type that file name.
-3. This should prompt a second question to choose which algorithm to run. Type "1".
+1. On MacOS and Windows, type and enter "javac Main.java" to compile the .java into a .class
+2. Then, type and enter "java Main" This should prompt you to choose the .csv file. Type that file name.
+3. This should prompt a second question to choose which algorithm to run. Type and enter "1".
 4. If algorithm 1 does not INITIALLY provide a valid assignment, re-run step 2-3 with the first algorithm at least THREE TIMES. I
-5. If that still does not work, type "2" to run the second algorithm.
+5. If that still does not work, type and enter "2" to run the second algorithm.
 6. If neither algorithm works, good luck! (do it by handdd)
 
 If a valid assignment has been created, feel free to share this draft schedule to the choreographers and change any times that would fit best. 
