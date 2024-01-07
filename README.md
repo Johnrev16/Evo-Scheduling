@@ -40,12 +40,12 @@ The terminal should now look like:
 
 # RUNNING THE PROGRAM
 
-8. On MacOS and Windows, type "javac Main.java" to compile the .java into a .class
-8a. Then, type "java Main" This should prompt you to choose the .csv file. Type that file name.
-8b. This should prompt a second question to choose which algorithm to run. Type "1".
-8c. If algorithm 1 does not INITIALLY provide a valid assignment, re-run step 8a - 8b with the first algorithm at least THREE TIMES. If that still does not work, type "2" to run the second algorithm. 
-8d. If neither algorithm works, good luck! (do it by handdd)
-
+1. On MacOS and Windows, type "javac Main.java" to compile the .java into a .class
+2. Then, type "java Main" This should prompt you to choose the .csv file. Type that file name.
+3. This should prompt a second question to choose which algorithm to run. Type "1".
+4. If algorithm 1 does not INITIALLY provide a valid assignment, re-run step 2-3 with the first algorithm at least THREE TIMES. I
+5. If that still does not work, type "2" to run the second algorithm.
+6. If neither algorithm works, good luck! (do it by handdd)
 
 If a valid assignment has been created, feel free to share this draft schedule to the choreographers and change any times that would fit best. 
    
