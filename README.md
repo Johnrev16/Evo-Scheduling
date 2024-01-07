@@ -33,8 +33,8 @@ If "javac is not recognized," or if your JDK version is not 18.0 or above, pleas
 
 # PRE-STEPS
 
-1. Before downloading all the files, create a folder in your Desktop to store the files.
-2. Download the Choreographer Conflicts sheets as a .csv file. Rename the .csv file to something easy to type (e.g. fall-22)
+1. Create a folder in your Desktop to store the files.
+2. Download the Choreographer Conflicts Google sheets in the Board folder as a .csv file. Rename the .csv file to something easy to type (e.g. fall-22)
 
 ![Screenshot 2024-01-07 at 4 32 14 PM](https://github.com/Johnrev16/Evo-Scheduling/assets/76535774/a04a578d-e775-4607-9eef-5c5121f377eb)
 
