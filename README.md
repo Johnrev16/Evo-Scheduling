@@ -17,6 +17,8 @@ The terminal should now look like:
 
 # WINDOWS TERMINAL 
 
+![PICTURE](https://github.com/Johnrev16/Evo-Scheduling/assets/94932129/f0ed625c-4dda-476b-80b3-2e004053b784)
+
 
 # PRE-PRE-STEPS
 1. Open your Terminal, and type in "javac -version" If your version is not 18.0 or above, then please proceed to Step 2.
