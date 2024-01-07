@@ -22,7 +22,7 @@ The terminal should now look like:
 
 # PRE-PRE-STEPS
 1. Open your Terminal, and type in "javac -version" and press Enter. If your version is not 18.0 or above, then please proceed to Step 2.
-2. Update your Java runtime (JRE) by downloading/installing the most recent JDK here: [https://jdk.java.net/21/](https://jdk.java.net/)
+2. Update your Java runtime (JRE) by downloading/installing the most recent READY-FOR-USE JDK here: [https://jdk.java.net](https://jdk.java.net/). Click the link that's applicable to your device. If on MacOS, click the .tar link next to macOS/x64, otherwise, if on Windows, click the .zip link next to Windows/x64. 
 
 # PRE-STEPS
 
