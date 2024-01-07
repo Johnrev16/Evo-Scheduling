@@ -21,14 +21,15 @@ The terminal should now look like:
 
 # PRE-PRE-STEPS
 
-IF YOU DO NOT HAVE JAVA INSTALLED, use this link to download the most recent JDK version on your compatible device Windows/MacOs x64 installer or x64 DMG Installer: [https://www.oracle.com/java/technologies/downloads/]
+1. Open your Terminal, and type and enter: "javac -version"
 
+If "javac is not recognized," or if your JDK version is not 18.0 or above, please proceed to Step 2.
 
-1. Open your Terminal, and type in "javac -version" and press Enter. 
-2. Update your Java runtime (JRE) by downloading/installing the most recent READY-FOR-USE JDK here: [https://jdk.java.net](https://jdk.java.net/). Click the link that's applicable to your device. If on MacOS, click the .tar link next to macOS/x64, otherwise, if on Windows, click the .zip link next to Windows/x64.
-3. Open up the .zip or .tar file in your Downloads to install the new JDK. On Windows, you may have to copy over the .zip files to your Desktop. 
-4. Exit your current Terminal.
-5. Open up a new Terminal, and repeat Step 1. 
+2. Download the most recent Java JDK version using this link: [https://www.oracle.com/java/technologies/downloads/] Choose the version that's compatible on your device (Windows, MacOS) and select the x64 installer, or x64 DMG Installer. Click and open the downloaded file to install the most recent Java JDK version. 
+
+3. Exit your current Terminal.
+   
+4. Open up a new Terminal, and check again your JDK version by typing and entering: "javac -version"
 
 # PRE-STEPS
 
