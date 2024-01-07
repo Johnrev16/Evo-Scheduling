@@ -50,7 +50,7 @@ If "javac is not recognized," or if your JDK version is not 18.0 or above, pleas
 # RUNNING THE PROGRAM
 
 1. On MacOS and Windows, type and enter "javac Main.java" to compile the .java into a .class
-2. Then, type and enter "java Main" This should prompt you to choose the .csv file. Type that file name.
+2. Then, type and enter "java Main" This should prompt you to choose the .csv file. So if your .csv filename is "fall-22," type and enter "fall-22.csv". 
 3. This should prompt a second question to choose which algorithm to run. Type and enter "1".
 4. If algorithm 1 does not INITIALLY provide a valid assignment, re-run step 2-3 with the first algorithm at least THREE TIMES. I
 5. If that still does not work, type and enter "2" to run the second algorithm.
