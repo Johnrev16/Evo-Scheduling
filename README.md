@@ -1,5 +1,5 @@
 # Evo-Scheduling
-Evo-scheduling 
+A developed AI algorithm to schedule practices upto 18 choreographers (not fool-proof) designating each choreographer a 1-hour practice timeslot based on their weekly availability.
 
 For future Evo Board use:
 
