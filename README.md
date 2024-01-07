@@ -3,11 +3,10 @@ A developed AI algorithm to schedule practices upto 18 choreographers (not fool-
 
 For future Evo Board use:
 
-# THE TERMINAL
+# OPENING UP THE TERMINAL
 
-1. How to Open up the Terminal
-2. On MacOS (Press Command + Space and search "Terminal")
-3. On Windows (Press Windows button and search "Powershell")
+1. On MacOS (Press Command + Space and search "Terminal")
+2. On Windows (Press Windows button and search "Powershell")
 
 The terminal should now look like: 
 
