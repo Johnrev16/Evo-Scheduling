@@ -140,7 +140,6 @@ public class Main {
             AC3Init();
             printPractice();
             System.out.println();
-            System.out.println(timeDomains);
         } else if (algInput == 2) {
             greedyAlgorithm();
             printPractice();
