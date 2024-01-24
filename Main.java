@@ -104,13 +104,13 @@ public class Main {
                     case "Thursday 9-10PM" -> {
                         numConflicts.get(i).add(12);
                     }
-                    case "Friday 7-8PM" -> {
+                    case "Friday 2-3PM" -> {
                         numConflicts.get(i).add(13);
                     }
-                    case "Friday 8-9PM" -> {
+                    case "Friday 3-4PM" -> {
                         numConflicts.get(i).add(14);
                     }
-                    case "Friday 9-10PM" -> {
+                    case "Friday 4-5PM" -> {
                         numConflicts.get(i).add(15);
                     }
                     case "Sunday 2-3PM" -> {
